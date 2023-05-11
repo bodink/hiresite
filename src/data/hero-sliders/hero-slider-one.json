@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Best for you",
+    "subtitle": "Best for baby",
+    "image": "/assets/img/slider/single-slide-hm1-2.png",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "Best for you new 1",
+    "subtitle": "Best for baby new 1",
+    "image": "/assets/img/slider/single-slide-1.png",
+    "url": "/shop-grid-standard"
+  }
+]

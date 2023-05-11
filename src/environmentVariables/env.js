@@ -1,0 +1,1 @@
+export const website_region = "EU";
